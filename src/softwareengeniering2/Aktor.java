@@ -8,6 +8,9 @@ package softwareengeniering2;
  * @version 1.0
  * @created 16-Dez-2013 19:40:55
  */
+
+
+/* Achtung, dies ist meine goße Änderung*/
 public class Aktor {
 
 	private final String Name;
